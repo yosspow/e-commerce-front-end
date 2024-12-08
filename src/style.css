@@ -1,0 +1,13 @@
+body {
+  padding: 60px;
+}
+.placeholders {
+  width: 80%;
+  margin: 20px auto;
+}
+* {
+  font-family: "Karla", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
